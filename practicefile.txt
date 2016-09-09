@@ -7,3 +7,11 @@ yeah.
 Hello, my name is Jason.
 .
 .
+My name is Benjamin Sterner. Changing line 2.  My name is Alton yee
+I don't know what to put in this file.
+.
+.
+yeah!
+Makeing more Changes
+Anybody else make changes?
+
