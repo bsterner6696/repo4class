@@ -1,7 +1,12 @@
 This is the practice file.
+<<<<<<< HEAD
 My name is Benjamin Sterner. Changing line 2.  My name is Alton yee
+=======
+My name is Benjamin Sterner. Changing line 2 again.  My name is Alton
+>>>>>>> 7cb0f7fdd00a079edf0be0a107c6f3ae865d9656
 I don't know what to put in this file.
 .
 .
-yeah.
+yeah!
 
+Makeing more Changes
